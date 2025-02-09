@@ -1,3 +1,0 @@
-# Somador ON/OFF
-
-TODO
