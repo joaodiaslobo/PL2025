@@ -2,7 +2,7 @@
 
 17/03/2025
 
-## 👤 Author  
+## 👤 Autor  
 
 - **Nome:** João Lobo  
 - **Número de aluno:** A104356
